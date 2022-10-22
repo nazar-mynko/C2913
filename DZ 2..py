@@ -13,7 +13,7 @@ import random
 
 
 class Student:
-  def__init__(self, name):
+  def __init__(self, name):
     self.name = name
     self.gladness = 50
     self.progress = 0
